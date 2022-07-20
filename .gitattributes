@@ -4,6 +4,8 @@
 
 # Basic .gitattributes for a R repo.
 
+static/* linguist-vendored
+
 # Source files
 # ============
 *.Rdata binary
